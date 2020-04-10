@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#E0D467</color>
+    <color name="bg_screen2">#5FE9DC</color>
+    <color name="bg_screen3">#F3B962</color>
+    <color name="bg_screen4">#8AC04C</color>
+
+
+    <array name="array_dot_active">
+        <item>#F0E9A9</item>
+        <item>#ABEEE5</item>
+        <item>#F1C98D</item>
+        <item>#D4F1B1</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>#DFC90B</item>
+        <item>#0C917E</item>
+        <item>#BE7A15</item>
+        <item>#619C1D</item>
+    </array>
+</resources>
